@@ -1,8 +1,9 @@
 # ecsalb
 
-## References
+## References - Mainly, first two
 1. https://javatodev.com/how-to-build-aws-vpc-using-terraform-step-by-step/
 2. https://dev.to/thnery/create-an-aws-ecs-cluster-using-terraform-g80
+3. https://medium.com/@bradford_hamilton/deploying-containers-on-amazons-ecs-using-fargate-and-terraform-part-2-2e6f6a3a957f
 
 
 ## For the Service to be in ECR
